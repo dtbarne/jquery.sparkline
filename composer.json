@@ -1,0 +1,7 @@
+{
+    "name": "dtbarne/jquery.sparkline",
+    "description": "Forked so I could add a composer.json",
+    "keywords": ["jquery", "sparkline"],
+    "license": "MIT",
+    "type": "project"
+}
