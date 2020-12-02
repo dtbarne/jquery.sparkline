@@ -1,5 +1,5 @@
 {
-    "name": "dtbarne/jquery.sparkline",
+    "name": "mobilefuse/jquery.sparkline",
     "description": "Forked so I could add a composer.json",
     "keywords": ["jquery", "sparkline"],
     "license": "MIT",
